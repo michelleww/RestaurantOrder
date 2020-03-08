@@ -201,7 +201,7 @@ public class AppTest {
     app.welcomeAndStart();
     app.askDrinkPizza();
 
-    String finalOutput = "Welcome to 301 Pizza!: \n"
+    String finalOutput = "Welcome to the Pizza Oder System!\n"
             + "Would you like to see the full menu, "
             + "or search by category and name? (menu/search):\n"
             + "Here is the full menu: \n"
@@ -235,7 +235,7 @@ public class AppTest {
     app.welcomeAndStart();
     app.askDrinkPizza();
 
-    String output = "Welcome to 301 Pizza!: \n"
+    String output = "Welcome to the Pizza Oder System!\n"
             + "Would you like to see the full menu, "
             + "or search by category and name? (menu/search):\n"
             + "Here is the full menu: \n"
@@ -269,7 +269,7 @@ public class AppTest {
     app.welcomeAndStart();
     app.askDrinkPizza();
 
-    String output = "Welcome to 301 Pizza!: \n"
+    String output = "Welcome to the Pizza Oder System!\n"
             + "Would you like to see the full menu, "
             + "or search by category and name? (menu/search):\n"
             + "Here is the full menu: \n"
@@ -310,7 +310,7 @@ public class AppTest {
     app.askUpdate();
 
     String output =
-        "Welcome to 301 Pizza!: \n"
+        "Welcome to the Pizza Oder System!\n"
             + "Would you like to see the full menu, "
             + "or search by category and name? (menu/search):\n"
             + "Here is the full menu: \n"
@@ -359,7 +359,7 @@ public class AppTest {
     app.askUpdate();
 
     String output =
-        "Welcome to 301 Pizza!: \n"
+        "Welcome to the Pizza Oder System! \n"
             + "Would you like to see the full menu, "
             + "or search by category and name? (menu/search):\n"
             + "Here is the full menu: \n"
@@ -400,7 +400,7 @@ public class AppTest {
     app.askDrinkPizza();
     app.askUpdate();
 
-    String output = "Welcome to 301 Pizza!: \n"
+    String output = "Welcome to the Pizza Oder System!\n"
             + "Would you like to see the full menu, "
             + "or search by category and name? (menu/search):\n"
             + "Here is the full menu: \n"
@@ -466,7 +466,7 @@ public class AppTest {
     app.askDrinkPizza();
     app.askUpdate();
 
-    String output = "Welcome to 301 Pizza!: \n"
+    String output = "Welcome to the Pizza Oder System！\n"
             + "Would you like to see the full menu, "
             + "or search by category and name? (menu/search):\n"
             + "Here is the full menu: \n"
@@ -516,7 +516,7 @@ public class AppTest {
     app.askUpdate();
     app.askDelivery();
 
-    String output = "Welcome to 301 Pizza!: \n"
+    String output = "Welcome to the Pizza Oder System!\n"
             + "Would you like to see the full menu, "
             + "or search by category and name? (menu/search):\n"
             + "Here is the full menu: \n"
@@ -557,7 +557,7 @@ public class AppTest {
     app.askUpdate();
     app.askDelivery();
 
-    String output = "Welcome to 301 Pizza!: \n"
+    String output = "Welcome to the Pizza Oder System!\n"
             + "Would you like to see the full menu, "
             + "or search by category and name? (menu/search):\n"
             + "Here is the full menu: \n"
@@ -616,7 +616,7 @@ public class AppTest {
     app.askUpdate();
     app.askDelivery();
 
-    String output = "Welcome to 301 Pizza!: \n"
+    String output = "Welcome to the Pizza Oder System!\n"
             + "Would you like to see the full menu, "
             + "or search by category and name? (menu/search):\n"
             + "Here is the full menu: \n"
@@ -676,7 +676,7 @@ public class AppTest {
     app.askUpdate();
     app.askDelivery();
 
-    String output = "Welcome to 301 Pizza!: \n"
+    String output = "Welcome to the Pizza Oder System!\n"
             + "Would you like to see the full menu, "
             + "or search by category and name? (menu/search):\n"
             + "Here is the full menu: \n"

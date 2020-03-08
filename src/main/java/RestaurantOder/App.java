@@ -16,7 +16,7 @@ class App {
   private static final String DRINK = "drink";
 
   /** Message for ending the program. */
-  private static final String THANKS = "Thank you for using Pizza Oder System!";
+  private static final String THANKS = "Thank you for using the Pizza Oder System!";
 
   /** The valid input. */
   private static String answer;

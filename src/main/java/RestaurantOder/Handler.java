@@ -1,4 +1,4 @@
-package a2;
+package RestaurantOder;
 
 import java.io.BufferedReader;
 import java.io.FileReader;

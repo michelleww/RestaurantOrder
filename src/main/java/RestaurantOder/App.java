@@ -1,4 +1,4 @@
-package a2;
+package RestaurantOder;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -16,7 +16,7 @@ class App {
   private static final String DRINK = "drink";
 
   /** Message for ending the program. */
-  private static final String THANKS = "Thank you for using 301 Pizza!";
+  private static final String THANKS = "Thank you for using Pizza Oder System!";
 
   /** The valid input. */
   private static String answer;
@@ -290,7 +290,7 @@ class App {
    */
   void welcomeAndStart() {
     // Display welcome message
-    System.out.println("Welcome to 301 Pizza!: ");
+    System.out.println("Welcome to the Pizza Oder System!");
 
     // Start the program by asking for menu or searching items
     do {

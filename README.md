@@ -1,6 +1,7 @@
 # RestaurantOrder
 
-This is a command-line program. Collaborated with Cami Guo.
+This is a command-line program. Collaborated with Cami Guo.  
+Run PizzaParlour class to start the program.   
 
 ### Restaurant Information
 Store information for prices and recipes as persisted files.   
